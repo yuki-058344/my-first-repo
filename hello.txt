@@ -1,3 +1,2 @@
-a
-b
-c
+Hello, World!
+Hello, Yuki!
